@@ -8,12 +8,13 @@ Booking Management: Book rooms, cancel bookings, and search by confirmation code
 User Management: Retrieve user information and view booking history.
 Role-based Authorization: Different access levels for ADMIN and USER.
 
-# Technologies Used
-Spring Boot: Framework for building the application.
-Spring Security: For authentication and role-based authorization.
-JPA/Hibernate: For database interactions.
-Lombok: To reduce boilerplate code.
-Java: Programming language for backend development.
+# Technologies Used  
+- **Spring Boot**: Framework for building the application.  
+- **Spring Security**: Handles authentication and role-based authorization.  
+- **JPA/Hibernate**: Facilitates database interactions.  
+- **Lombok**: Reduces boilerplate code.  
+- **Java**: Primary programming language for backend development.  
+- **AWS S3**: Cloud storage service for storing images.  
 
 # Prerequisites
 Java 17 or later
